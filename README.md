@@ -96,6 +96,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pronaybormon/pronaybormon/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/PronayBormon/PronayBormon/blob/main/snake.svg" alt="Snake animation" />
 
 ###
