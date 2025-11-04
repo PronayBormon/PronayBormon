@@ -59,9 +59,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
-##
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PronayBormon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PronayBormon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 
