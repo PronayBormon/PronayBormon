@@ -16,22 +16,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pronaybormon.pronaybormon&"  />
 </div>
 
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<br clear="both">
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">I'm Pronay, a passionate and results-driven Web App Developer with a strong foundation in building dynamic, responsive, and user-friendly web applications. With hands-on experience in modern web technologies like JavaScript, Vue.js, Nuxt.js, React.js, and backend tools like Laravel and MySQL, I specialize in crafting seamless digital experiences. My development approach focuses on clean architecture, scalability, and performance.<br><br>Whether it's creating full-stack applications, integrating RESTful APIs, or optimizing front-end interactions, I strive to deliver high-quality code and impactful user experiences. I'm also familiar with tools like Bootstrap, Tailwind CSS, Axios, Git, and have worked with Flutter for cross-platform app development.<br><br>I’m always eager to learn, solve real-world problems, and contribute to innovative web solutions.</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -74,16 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=pronaybormon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
