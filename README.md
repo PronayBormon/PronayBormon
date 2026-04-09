@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;customColorList=6,11,20,29&amp;text=Pronay%20Kumar%20Bormon&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Laravel%20Developer&amp;descSize=18&amp;descAlignY=55&amp;textBg=false">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
