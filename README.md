@@ -5,6 +5,15 @@
 
 ###
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pronaybormon&show_icons=true&locale=en&layout=compact" alt="pronaybormon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronaybormon&show_icons=true&locale=en" alt="pronaybormon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronaybormon&" alt="pronaybormon" /></p>
+
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/iampronay/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
