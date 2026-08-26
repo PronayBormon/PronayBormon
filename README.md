@@ -1,44 +1,318 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=gradient&amp;customColorList=6,11,20,29&amp;text=Pronay%20Kumar%20Bormon&amp;fontSize=48&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Laravel%20Developer&amp;descSize=18&amp;descAlignY=55&amp;textBg=false">
-  <!-- <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
-</div>
+# 👋 Hi, I'm Pronay Kumar Bormon
 
-###
+### PHP & Laravel Backend Developer
 
+I build **scalable web applications, RESTful APIs, and production-ready backend systems** using PHP and Laravel.
 
+My experience spans backend architecture, third-party integrations, real-time communication, cloud infrastructure, CI/CD, and collaboration with frontend and mobile development teams.
 
+I care about **clean architecture, maintainable code, reliable deployments, and building systems that are practical in production.**
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/iampronay/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="[https://www.linkedin.com/in/iampronay/](https://www.facebook.com/pronay.bormon.2025/)"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pronaybormon.pronaybormon&"  />
-</div>
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pronaybormon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pronaybormon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pronaybormon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=pronaybormon&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p>
+  <a href="https://github.com/PronayBormon">
+    <img src="https://img.shields.io/badge/GitHub-PronayBormon-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://impronay.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-impronay.xyz-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:pronaykumar5462@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pronaybormon&" alt="pronaybormon" /></p>
+## 🧑‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔹 PHP & Laravel backend development
+- 🔹 RESTful API design and development
+- 🔹 Scalable web application development
+- 🔹 Third-party API integrations
+- 🔹 Real-time applications with WebSocket, Reverb & Pusher
+- 🔹 AWS and cloud-based application environments
+- 🔹 CI/CD and GitHub-based deployment workflows
+- 🔹 Server configuration with Nginx, Apache & cPanel
+- 🔹 Redis and queue-based application processing
+- 🔹 AI bot and social login integrations
+- 🔹 Collaboration with React and Flutter development teams
+
+---
+
+# 🛠️ Engineering Stack
+
+## Backend
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+- PHP
+- Laravel
+- RESTful APIs
+- API architecture
+- MySQL
+- Redis
+- Queues & background processing
+- PHPUnit
+- System design
+- Third-party API integration
+- AI bot integration
+- Social login integration
+
+---
+
+## Frontend
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=00DC82" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+- JavaScript
+- React.js
+- Vue.js
+- Nuxt.js
+- Blade
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+</p>
+
+- AWS
+- CI/CD
+- GitHub Actions
+- Git & GitHub
+- Nginx
+- Apache
+- cPanel
+- Cloud hosting
+- Server configuration
+- Application deployment
+- Server maintenance
+
+---
+
+## 🗄️ Data & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+- MySQL
+- Redis
+- Database-driven application development
+- Laravel Queues
+- Background jobs
+- Cache management
+
+---
+
+## ⚡ Real-Time & Communication
+
+- WebSocket
+- Laravel Reverb
+- Pusher
+- Firebase Notifications
+- Real-time application features
+
+---
+
+## 📱 Mobile & Cross-Platform
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+
+- Flutter
+- Dart
+- REST API integration
+- Mobile application backend support
+- Firebase Notifications
+
+---
+
+# 🏗️ Engineering Practices
+
+I focus on building systems that are:
+
+```text
+Scalable        → Designed to grow with the product
+Maintainable    → Clean, structured and understandable code
+Reliable        → Stable production behaviour
+API-driven      → Clear communication between services
+Testable        → PHPUnit and structured development practices
+Deployable      → CI/CD and production-ready workflows
+Observable      → Practical debugging and server maintenance
+```
+
+---
+
+# 💼 Professional Experience
+
+## Laravel Developer — Softvence Agency
+
+**April 2025 – Present**
+
+Working on scalable web applications and backend systems using PHP and Laravel.
+
+### Responsibilities
+
+- Develop and maintain scalable Laravel applications
+- Design and develop RESTful APIs
+- Integrate third-party APIs for web and mobile products
+- Collaborate with Flutter and React developers
+- Implement CI/CD workflows using GitHub
+- Work with AWS, Apache and Nginx environments
+- Support deployment and application reliability
+- Perform server configuration and maintenance
+
+---
+
+## Jr. Developer — Futuregen IT Ltd.
+
+**June 2023 – April 2025**
+
+Worked on web application development, API development, integrations, debugging and deployment.
+
+### Responsibilities
+
+- Developed applications using PHP, Laravel and MySQL
+- Built responsive interfaces using Blade, Vue.js and Bootstrap
+- Contributed to RESTful API development
+- Worked on third-party integrations
+- Participated in debugging and troubleshooting
+- Participated in code review
+- Supported deployment and cPanel/server management
+
+---
+
+# 🚀 Selected Projects
+
+## 🌍 Roots & Routes
+
+**Travel & Relocation Mobile Application**
+
+A global travel and relocation companion for expats, digital nomads and frequent travelers.
+
+The platform combines:
+
+- 🤖 AI concierge assistance
+- 🌐 Live translation
+- 🌎 Cultural insights
+- 🚨 Safety alerts
+- 👥 Community tips
+
+**Platform:** Mobile Application
+
+**App Store:**  
+https://apps.apple.com/us/app/roots-routes/id6792675939
+
+---
+
+## 👕 Fabricrootz Clothing App
+
+**E-commerce Mobile Application**
+
+A custom mobile application developed for Fabricrootz Clothing, allowing customers to browse products and make purchases.
+
+**Platforms:**
+
+- Google Play: https://play.google.com/store/apps/details?id=com.app.fabricrootz
+- App Store: https://apps.apple.com/us/app/fabricz/id6763974574
+
+---
+
+## 📷 Photography & Videography Gear Platform
+
+**Marketplace / Gear Buying Platform**
+
+A platform focused on buying and selling photography and videography equipment.
+
+Users can submit a list of equipment they own and receive a purchase quote.
+
+**Live:**  
+https://okazzion.com
+
+---
+
+## 🎓 TT Tutoring
+
+**Tutoring & Mentoring Marketplace**
+
+An online tutoring and mentoring platform connecting students with qualified tutors from leading universities.
+
+The platform combines academic teaching with practical mentoring and guidance.
+
+**Live:**  
+https://tttutoring.co.uk
+
+---
+
+# 🎓 Education
+
+### B.Sc. in Computer Science & Engineering
+
+**University of South Asia**
+
+**2022 · CGPA 3.31**
+
+---
+
+# 📈 Current Focus
+
+```text
+Laravel Architecture
+RESTful API Design
+Scalable Backend Systems
+Cloud & Server Infrastructure
+CI/CD Automation
+Real-Time Applications
+AI Integrations
+Performance & Reliability
+Clean & Maintainable Code
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/PronayBormon">
+    <img src="https://img.shields.io/badge/GitHub-PronayBormon-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://impronay.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-impronay.xyz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:pronaykumar5462@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 "Build it clean. Make it reliable. Ship it."
+
+⭐ Thanks for visiting my profile!
