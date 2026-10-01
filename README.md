@@ -12,7 +12,7 @@ I care about **clean architecture, maintainable code, reliable deployments, and 
   <a href="https://github.com/PronayBormon">
     <img src="https://img.shields.io/badge/GitHub-PronayBormon-181717?style=flat-square&logo=github" />
   </a>  
-<a href="https://www.linkedin.com/in/PronayBormon" target="_blank">
+<a href="https://www.linkedin.com/in/iampronay" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-PronayBormon-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn - PronayBormon" />
 </a>
   <a href="https://impronay.xyz">
